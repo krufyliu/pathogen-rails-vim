@@ -1,3 +1,7 @@
 tags
 *.netrwhist
 *.zip
+bundle/**/.git
+.DS_Store
+*.swp
+*.swo
