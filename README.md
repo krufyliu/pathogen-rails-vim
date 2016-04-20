@@ -4,11 +4,11 @@ If you do web dev a lot...yes
 ### Install
 1. clone the repo
 
-        git clone git://github.com/happypeter/peter-vim.git
+        git clone https://github.com/krufyliu/pathogen-rails-vim.git
 
 1. rename it
 
-        mv peter-vim ~/.vim
+        mv pathogen-rails-vim ~/.vim
 
 1. set up `~/.vimrc`, have a fake `.vimrc` in your `$HOME`
 
